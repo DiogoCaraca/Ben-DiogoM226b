@@ -1,1 +1,1 @@
-This is a ICT Project
+This is a ICT Project.
